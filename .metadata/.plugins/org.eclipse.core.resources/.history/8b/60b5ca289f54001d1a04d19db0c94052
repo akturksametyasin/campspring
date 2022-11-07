@@ -1,6 +1,0 @@
-package kodlama.io.rentACar.webApi.controllers;
-
-@RestController	//annotation
-public class BrandsController {
-
-}
