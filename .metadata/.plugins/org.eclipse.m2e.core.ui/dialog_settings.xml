@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\campspring\rentACar"/>
 			<item value="C:\campspring"/>
 		</list>
 		<list key="projectNameTemplate">
